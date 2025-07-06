@@ -16,5 +16,5 @@ public class ZoombieGame implements Game{
 
     public void right() {
         System.out.println("go right");
-    }
+    } 
 }
